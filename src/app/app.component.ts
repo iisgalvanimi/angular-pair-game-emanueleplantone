@@ -26,4 +26,10 @@ export class AppComponent {
     
     console.log(evntData)
   }
+  
+  
+
+
+
+
 }
